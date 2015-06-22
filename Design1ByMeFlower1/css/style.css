@@ -1,0 +1,95 @@
+﻿
+
+.box-row{display:table-row;height:100%}
+.box .box-row .box-cell{position:relative;width:100%;height:100%;overflow:auto;-webkit-overflow-scrolling:touch}
+.ie .box .box-row .box-cell{display:table-cell}
+.box .box-col{display:table-cell;vertical-align:top}
+
+
+body
+{
+    font-family: 'Open Sans' , sans-serif;
+    font-weight: 300;
+}
+.navbar
+{
+    border-bottom: 2px solid #ddd;
+}
+.main
+{
+    margin-top: 50px;
+}
+.jumbotron
+{
+    margin-bottom: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #f4f4f4; 
+    position:relative;
+}
+/*
+.ak:hover .hi-icon-wrap
+{
+}
+.hi-icon-wrap
+{
+    position:relative;
+}*/
+.content1
+{
+    position: absolute;
+    top: 0;
+}
+.main .jumbotron img
+{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.footer{
+    width: 100%;
+    color: #444;
+    background: #fafafa;
+    border-top: 1px solid #ddd;
+    height:150px;
+}
+
+.footer__title{
+    margin: 0 0 10px 0;
+    border-bottom: 1px solid #ddd;
+    font-family: ThaiSansNeueBoldSVG, ThaiSansNeueBold, sans-serif;
+    font-size: 36px;
+    font-size: 3.6rem;
+}
+h1{
+    font-weight: 300;
+}
+.wrapper p{
+    font-size: 1.2em;
+    color: #777;
+}
+a{
+    color: #f69e54;
+}
+
+/*
+.uk-text-center {
+  text-align: center !important;
+}
+
+.uk-animation-scale-up {
+  -webkit-animation-name: uk-fade-scale-02;
+  animation-name: uk-fade-scale-02;
+}
+.uk-animation-scale-down {
+  -webkit-animation-name: uk-fade-scale-18;
+  animation-name: uk-fade-scale-18;
+}
+
+.uk-animation-scale {
+  -webkit-animation-name: uk-scale-12;
+  animation-name: uk-scale-12;
+}
+
+*/

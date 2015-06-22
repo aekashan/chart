@@ -1,0 +1,1 @@
+http://bxslider.com/examples/manual-show-without-infinite-loop
